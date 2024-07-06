@@ -62,6 +62,9 @@
     font-weight: 500;
     text-decoration: none;
   }
+.logo{
+  text-decoration:none;
+}
   
   /* .sitename:hover{
     border-bottom: 5px solid var(--themeColor);
